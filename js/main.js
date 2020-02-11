@@ -10,3 +10,18 @@ const hearderAfterScrolling = function () {
 };
 
 hearderAfterScrolling();
+
+const burgerHandler = function () {
+    const burgerItem = document.querySelector('.burger');
+    const headerNav = document.querySelector('.header__nav');
+    const headerCloseItem = document.querySelector('.header__nav-close');
+    burgerItem.addEventListener('click', function () {
+        headerNav.classList.add('header__nav_active');
+    });
+    headerCloseItem.addEventListener('click', () => {
+        headerNav.classList.remove('header__nav_active');
+    });
+
+};
+
+burgerHandler();
