@@ -2,11 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c14693ea-0707-436f-91dd-a8110f386eb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/reset.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/android-chrome-256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/intro-img-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyoto-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mount-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/niigata-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/place-1-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/place-2-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/place-3-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/place-4-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/place-5-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/place-6-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sapporo-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tokyo-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tour-1-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tour-2-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/reset.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index..html" beforeDir="false" afterPath="$PROJECT_DIR$/index..html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index..html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +47,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,7 +64,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/SVG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -74,7 +102,12 @@
       <updated>1579534462593</updated>
       <workItem from="1579534464167" duration="25315000" />
       <workItem from="1580642984548" duration="38867000" />
-      <workItem from="1581270209932" duration="4395000" />
+      <workItem from="1581270209932" duration="4581000" />
+      <workItem from="1581556059137" duration="597000" />
+      <workItem from="1581613856169" duration="1702000" />
+      <workItem from="1581616977156" duration="292000" />
+      <workItem from="1581699537303" duration="124000" />
+      <workItem from="1581785586932" duration="6061000" />
     </task>
     <servers />
   </component>
